@@ -1,4 +1,19 @@
+body {
+  
+}
+
+
 h1 {
     color:black;
     font-size: 160px;
   }
+
+  h2 {
+    color:purple;
+    font-size: 80 px;
+  } 
+
+  h3 {
+    color:black;
+    font-size: 60 px;
+  } 
