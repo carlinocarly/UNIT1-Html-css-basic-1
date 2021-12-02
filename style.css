@@ -1,19 +1,29 @@
 body {
-  
+  min-height: 300vh;
+  background-image: ;
 }
 
 
 h1 {
     color:black;
-    font-size: 160px;
+    font-size: 100px;
   }
 
   h2 {
-    color:purple;
+    color:black;
     font-size: 80 px;
   } 
 
   h3 {
     color:black;
-    font-size: 60 px;
+    font-size: 20 px;
   } 
+
+  h4 {
+    color: black;
+    font-size: 50 px;
+  } 
+
+.col{
+  
+}
